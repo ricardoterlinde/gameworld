@@ -1,0 +1,608 @@
+#index
+{
+    background-image: url("../images/role2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#main-container
+{
+    margin: 0 auto;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    right: 50px;
+}
+
+#main-containergames
+{
+    margin: 0 auto;
+    width: 700px;
+    position: relative;
+    right: 50px;
+}
+
+#logo
+{
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: -5px;
+}
+
+#logo a:hover
+{
+        color: blue; 
+}
+
+#logo a
+{
+    text-decoration: none;
+    color: yellowgreen; 
+}
+
+#nav
+{
+    width: 900px;
+    background-color: yellowgreen;
+    height: 50px;
+    position: relative;
+    list-style: none;
+}
+
+#nav ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px; 
+    font-weight: bold; 
+}
+
+.home
+{
+    color: blue;
+    font-size: 35px;
+    float: left;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 5px;
+
+}
+
+.home:hover
+{
+    color: yellow; 
+}
+
+.games
+{
+    color: blue;
+    font-size: 35px;
+    text-decoration: none; 
+    margin-top: 5px;
+    position:absolute;
+    left: 140px; 
+}
+.games:hover
+{
+    color: yellow; 
+}
+
+.about
+{
+    color: blue;
+    font-size: 35px;
+    float: left; 
+    margin-left: 145px;
+    text-decoration: none;
+    margin-top: 5px;
+    position: absolute;
+    left: 140px; 
+}
+
+.about:hover 
+{
+    color: yellow;
+}
+
+.contact
+{
+    color: blue; 
+    font-size: 35px;
+    float: left;
+    margin-left: 300px;
+    text-decoration: none; 
+    margin-top: 5px;
+    position: absolute;
+    left: 150px; 
+}
+
+.Checkout
+{
+    color: gray; 
+    font-size: 35px;
+    float: left;
+    margin-left: 615px;
+    text-decoration: none; 
+    margin-top: 5px;
+    position: absolute;
+}
+
+.Checkout:hover
+{
+    color: blue;
+}
+
+.contact:hover
+{
+    color: yellow;
+}
+
+#center
+{
+    width: 900px;
+    height: 360px;
+    background-image: url("../images/bo4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 10px;
+}
+
+#center2
+{
+    width: 900px;
+    height: 400px;
+    background-image: url("../images/bo4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 10px;
+    display: block;
+}
+
+#centerC
+{
+    width: 900px;
+    height: 400px;
+    background-image: url("../images/bo4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 10px;
+    display: block;
+}
+.centertext1
+{
+    position: absolute;
+    left: 30px;
+    top: 80px; 
+    color: yellow;
+    font-weight: 900px;
+    font-size: 50px;
+    font-style: initial;
+}
+
+
+.centertext2
+{
+    position: absolute;
+    left: 30px;
+    top: 140px; 
+    color: yellow;
+    font-weight: 600px;
+    font-size: 35px;
+    text-align: center;
+    font-style: oblique;
+}
+
+.centertextA
+{
+    position: absolute;
+    left: 30px;
+    top: 80px; 
+    color: yellow;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: -55px;
+    list-style-type: none;
+}
+
+.centertextA ul
+{
+    list-style-type: circle;
+}
+
+#undercenter
+{
+    width: 900px;
+}
+
+#undercenter ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px; 
+    font-weight: bold; 
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 25px;
+}
+
+.Playstation
+{
+    float: left;
+    width: 268px;
+    height: 101px;
+    background-color: blue;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 52px;
+}
+
+.Playstation:hover
+{
+    background-color: rgb(57, 72, 206);
+}
+
+.Xbox
+{
+    float: left;
+    width: 268px;
+    height: 101px;
+    background-color: green;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 52px;
+    margin-left: 18px;
+}
+
+.Xbox:hover 
+{
+    background-color: rgb(56, 172, 56) 
+}
+
+.PC
+{
+    float: left;
+    width: 268px;
+    height: 101px;
+    background-color: black;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 52px;
+    margin-left: 32px;
+}
+.PC:hover 
+{
+    background-color: rgb(29, 27, 27);
+}
+
+.footer
+{
+    background-color: yellowgreen;
+    height: 50px;
+    color: white; 
+    font-size: 40px;
+    width: 900px;
+    margin: auto;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: center;
+
+    bottom: -60px;  
+}
+
+.footer a
+{
+    padding: 30px;
+    color: blue;
+    text-decoration: none;
+}
+
+#product-item
+{
+    padding: 5px;
+    width: 197px;
+    height: 300px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    border: 2px solid yellow;
+    background-color: black;
+    margin-top: 20px;
+}
+
+.gameTitel
+{
+    text-align: center;
+    color: white;
+    position: absolute;
+}
+
+.gamePrice
+{
+    position: absolute;
+    right: 7px;
+    height: 40px;
+    width: 80px;
+    background-color: yellowgreen;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    bottom: 55px;
+    color: blue;
+}
+
+.order
+{
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    bottom: 0px;
+    left: 0;
+    background-color: green; 
+}
+
+.order:hover
+{
+    background-color: yellowgreen; 
+    color: blue;
+}
+
+.image
+{
+    padding-top: 50px;
+    width: 195px;
+    height: 205px;
+}
+
+.products-container2
+{ 
+    width: 1000px;
+}
+
+#cart 
+{    
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 825px;
+    margin-top: -50px;
+}
+
+#cart:hover
+{
+    opacity: 0.6;
+	filter: alpha(opacity=30);
+}
+
+#cart2 
+{    
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 825px;
+    margin-top: -50px;
+}
+
+#cart2:hover
+{
+    opacity: 0.6;
+	filter: alpha(opacity=30);
+}
+
+.navigationBar
+{
+    background-color: black;
+    height: 50px;
+    color: orangered; 
+    border: 1px solid orangered;
+    font-size: 40px;
+    width: 800px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#table
+{
+    width: 900px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+
+.thead tr th
+{
+    color: white;
+    background-color: blue;
+}
+
+.tfoot
+{
+    color: white;
+    background-color: blue;
+    text-align: right;
+    text-align: center;
+}
+
+.blackops
+{
+    background-image: url("../images/blackops4.jpg");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+.fifa
+{
+    background-image: url("../images/fifa19.jpg");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+.rdr
+{
+    background-image: url("../images/rdr.jpg");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+.tbody
+{
+    background-color: yellowgreen;
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+.clearfix
+{
+    clear: both;
+}
+
+.Category
+{
+    text-align: center;
+    color: black;
+    background-color: yellowgreen;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#game-category1
+{
+    text-align: center;
+    color: yellowgreen;
+    background-color: blue;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#game-category2
+{
+    text-align: center;
+    color: black;
+    background-color: rgb(62, 185, 62);
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#game-category3
+{
+    text-align: center;
+    color: yellowgreen;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#game-category4
+{
+    text-align: center;
+    color: black;
+    background-color: yellowgreen;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+
+#totaal
+{
+    text-align: center;
+}
+
+.bottom-container
+{
+    margin: auto;
+    text-decoration: none;
+    text-align: center;
+    position: absolute;
+    bottom: 0; 
+}
+
+.category-item {
+    width: 267px;
+    height: 120px;
+    float: left;
+    margin-right: 31px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+#form-container {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 5px;
+    color: yellow;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#fieldset-left {
+    width: 400px;
+    float: left;
+    height: 368px;
+    margin: 5px;
+}
+
+#fieldset-right 
+{
+    width: 400px;
+    float: right;
+    margin: 5px;
+    height: 368px;
+}
+
+#textarea
+{
+    height: 229px;
+    width: 301px;
+}
+
+#GameShop
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 592px;
+    margin-top: -143px;
+    border: 2px solid yellow;
+    width: 200px;
+    height: 150px;
+}
+
+#country
+{
+    width: 145px;
+    text-align: center;     
+}
